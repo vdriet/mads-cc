@@ -2,6 +2,7 @@ certifi==2026.2.25
 numpy==2.4.3
 pandas==3.0.1
 python-dateutil==2.9.0.post0
+scikit-learn==1.8.0
 six==1.17.0
 ucimlrepo==0.0.7
 xlrd==2.0.2
